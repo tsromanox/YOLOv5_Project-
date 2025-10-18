@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/fiap/YOLOv5_Project/dataset/train/images
+val: /content/drive/MyDrive/fiap/YOLOv5_Project/dataset/valid/images
+
+nc: 2  # número de classes
+names: ['garrafa', 'lata']  # nomes das classes
